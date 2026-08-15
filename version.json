@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.0",
-  "version_code": 1,
-  "min_required_version_code": 1,
-  "download_url": "https://github.com/Blackproxya2z/kholo-app/releases/download/v1.0.0/app-release.apk",
-  "apk_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "release_notes": "Initial release of KHOLO â€” One calm home for body, baby, and everyday care with SHA-256 anti-tamper validation."
+    "latest_version":  "1.0.0",
+    "release_notes":  "KHOLO v1.0.0 with blooming glowing logo, starlight sparkles animation, in-app auto updates, and offline sync.",
+    "apk_sha256":  "b2ab18d8b9782383b850de83900629c75a826889fbddc4c8a980e016e11685a8",
+    "min_required_version_code":  1,
+    "download_url":  "https://github.com/Blackproxya2z/kholo-app/releases/download/v1.0.0/app-release.apk",
+    "version_code":  1
 }
