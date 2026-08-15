@@ -1,7 +1,7 @@
 {
     "latest_version":  "1.1.0",
-    "release_notes":  "🌸 KHOLO v1.1.0 Update!\n• Mesmerizing blooming lotus logo\n• Orbiting starlight sparkles animation\n• Faster offline sync engine\n• Enhanced security \u0026 battery optimization",
-    "apk_sha256":  "b2ab18d8b9782383b850de83900629c75a826889fbddc4c8a980e016e11685a8",
+    "release_notes":  "🌸 KHOLO v1.1.0 Update!\n• Mesmerizing blooming lotus logo\n• Orbiting starlight sparkles animation\n• System update notifications\n• Faster offline sync engine",
+    "apk_sha256":  "ba4b02dad15b0042c7a91712598584c95a8afba75e9149a23b3a90c64a9683ae",
     "min_required_version_code":  1,
     "download_url":  "https://github.com/Blackproxya2z/kholo-app/releases/download/v1.0.0/app-release.apk",
     "version_code":  2
