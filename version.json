@@ -1,8 +1,8 @@
 {
-    "latest_version":  "1.1.0",
-    "release_notes":  "🌸 KHOLO v1.1.0 Official Release\n\n• ✨ AI স্কিন ডক্টর স্ক্যানার (Robotic Face \u0026 Skincare Analyzer)\n• 🌸 Mesmerizing blooming lotus logo \u0026 starlight sparkles\n• ⚡ In-app 1-click automatic updates\n• 🔒 Offline-first health tracking \u0026 LWW sync",
-    "apk_sha256":  "9945d90ba5dcf825fc31189eabea61b24870b895b31dc765fcc9f5fc20db96e9",
+    "latest_version":  "1.2.0",
+    "release_notes":  "🌸 নতুন KHOLO v1.2.0 আপডেট উপলব্ধ!\n\n• 📷 লাইভ ক্যামেরা AI স্কিন ডক্টর স্ক্যানার\n• 🩺 বাংলা প্রেসক্রিপশন ও রুটিন\n• ⚡ ইন-অ্যাপ অটো-আপডেট ইঞ্জিন",
+    "apk_sha256":  "a046597c608da6343865bcfb8b0366b39e32e55ea197be1a69e52c3f33a8dcb0",
     "min_required_version_code":  1,
     "download_url":  "https://github.com/Blackproxya2z/kholo-app/releases/download/v1.0.0/app-release.apk",
-    "version_code":  2
+    "version_code":  99
 }
